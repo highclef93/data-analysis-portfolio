@@ -2,7 +2,7 @@
 
 ### **Welcome to My Professional Portfolio**  
 
-Hello! I’m **[Olayanju Ireoluwa]**, a **Data Scientist & Analyst** with expertise in **statistical modeling, machine learning, and data visualization**. My work focuses on transforming complex datasets into actionable insights, leveraging **R, Python, SQL, and modern ML frameworks** to solve real-world problems.  
+Hello! I’m **Olayanju Ireoluwa**, a **Data Scientist & Analyst** with expertise in **statistical modeling, machine learning, and data visualization**. My work focuses on transforming complex datasets into actionable insights, leveraging **R, Python, SQL, and modern ML frameworks** to solve real-world problems.  
 
 ### **🔍 What You’ll Find Here**  
 This repository showcases a curated selection of my **data-driven projects**, highlighting:  
@@ -26,7 +26,7 @@ Each project includes:
 3. **[Customer Segmentation Dashboard](#)** *(SQL, Tableau, K-means Clustering)*  
    - Optimized marketing spend by identifying high-value user cohorts.  
 
-*(Explore each project’s folder for deeper insights.)*  
+*(Kindly explore each project’s folder for deeper insights. I'd love your feedback)*  
 
 ---
 
@@ -45,7 +45,7 @@ I’m actively seeking opportunities in **data science, analytics, and AI-driven
 - A peer interested in collaboration, or  
 - An enthusiast discussing data trends,  
 
-I’d love to connect!  
+I’d love to connect! Let's build amazing things together!
 
 📧 **Email:** [olayanjuolawale93@gmail.com](mailto:olayanjuolawale93@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/olayanju-ireoluwa-202488a7/](https://linkedin.com/in/olayanju-ireoluwa-202488a7/)  
