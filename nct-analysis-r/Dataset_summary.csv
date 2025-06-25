@@ -1,0 +1,37 @@
+﻿s/n,Variable/Column Name,Data type,Details
+1.      ,Vehicle Make,Categorical,Name of the vehicle brand
+2.      ,Vehicle Model,Categorical,Model of the vehicle brand
+3.      ,Year Of Birth,Numeric,Year of vehicle production
+4.      ,Total,Numeric / Discrete,Total Number of Vehicles tested
+5.      ,PASS,Numeric / Discrete,Number of Vehicles that passed the test
+6.      ,PASS %,Numeric / Continuous,Percentage of Vehicles that passed the test
+7.      ,FAIL,Numeric / Discrete,Number of Vehicles that failed the test
+8.      ,FAIL%,Numeric / Continuous,Percentage of Vehicles that failed the test
+9.      ,Vehicle and Safety Equipment,Numeric / Discrete,No. of Vehicles that passed the Vehicle and Safety Equipment Test 
+10.   ,Vehicle and Safety Equipment %,Numeric / Continuous,Percentage of Vehicles that passed the Vehicle and Safety Equipment Test
+11.   ,Lighting and Electrical,Numeric / Discrete,No. of Vehicles that passed the Lighting and Electrical test
+12.   ,Lighting and Electrical %,Numeric / Continuous,Percentage of Vehicles that passed the Lighting and Electrical test
+13.   ,Steering and Suspension,Numeric / Discrete,No. of Vehicles that passed the Steering and Suspension test
+14.   ,Steering and Suspension %,Numeric / Continuous,Percentage of Vehicles that passed the Steering and Suspension test
+15.   ,Braking Equipment,Numeric / Discrete,No. of Vehicles that passed the Braking Equipment test
+16.   ,Braking Equipment %,Numeric / Continuous,Percentage of Vehicles that passed the Braking Equipment test
+17.   ,Wheels and Tyres,Numeric / Discrete,No. of Vehicles that passed the Wheels and Tyres test
+18.   ,Wheels and Tyres %,Numeric / Continuous,Percentage of Vehicles that passed the Wheels and Tyres test
+19.   ,Engine Noise and Exhaust  ,Numeric / Discrete,No. of Vehicles that passed the Engine Noise and Exhaust  test
+20.   ,Engine Noise and Exhaust %,Numeric / Continuous,Percentage of Vehicles that passed the Engine Noise and Exhaust test
+21.   ,Chassis and Body,Numeric / Discrete,No. of Vehicles that passed the Chassis and Body test
+22.   ,Chassis and Body %,Numeric / Continuous,Percentage of Vehicles that passed the Chassis and Body test
+23.   ,Side Slip Test,Numeric / Discrete,No. of Vehicles that passed the Side Slip Test 
+24.   ,Side Slip Test %,Numeric / Continuous,Percentage of Vehicles that passed the Side Slip Test
+25.   ,Suspension Test,Numeric / Discrete,No. of Vehicles that passed the Suspension Test
+26.   ,Suspension Test %,Numeric / Continuous,Percentage of Vehicles that passed the Suspension Test
+27.   ,Light Test ,Numeric / Discrete,No. of Vehicles that passed the Light Test
+28.   ,Light Test %,Numeric / Continuous,Percentage of Vehicles that passed the Light Test
+29.   ,Brake Test,Numeric / Discrete,No. of Vehicles that passed the Brake Test
+30.   ,Brake Test %,Numeric / Continuous,Percentage of Vehicles that passed the Brake Test
+31.   ,Emmissions,Numeric / Discrete,No. of Vehicles that passed the Emmission Test
+32.   ,Emmissions %,Numeric / Continuous,Percentage  of Vehicles that passed the Emmission Test
+33.   ,OTHER,Numeric / Discrete,No. of Vehicles that passed OTHER tests
+34.   ,OTHER %,Numeric / Continuous,Percentage of Vehicles that passed OTHER tests
+35.   ,Incompletable,Numeric / Discrete,No. of vehicles involved in incomplete tests
+36.   ,Incompletable %,Numeric / Continuous,Percentage of vehicles involved in incomplete tests
